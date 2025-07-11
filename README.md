@@ -1,3 +1,4 @@
+![Alt Text](PayRay.png)
 # 💳 Python Banking Application
 
 A complete object-oriented banking system written in Python using `pandas` for data management and `customtkinter` for a modern graphical user interface (GUI).
