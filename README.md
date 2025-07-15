@@ -1,4 +1,4 @@
-![Alt Text](PayRay.png)
+![Alt Text](PAYRAY.png)
 # 💳 Python Banking Application
 
 
